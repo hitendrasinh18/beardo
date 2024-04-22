@@ -1,0 +1,183 @@
+.abc{
+
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.a{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.a1{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+.a2{ 
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+.b{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.b1{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+
+}
+.c{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: brown;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+.c1{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+.c2{ 
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+.row2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: 20px;
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.d1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.e{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: brown;
+    height: 200px;
+    width: 500px;
+    align-items: center;
+}
+.e1{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+.e2{ 
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+.e3{ 
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+.row3{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: 20px;
+}
+.f{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: brown;
+    height: 200px;
+    width: 500px;
+    align-items: center;
+}
+.f1{
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+}
+.row4{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.g{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.g1{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}
+.g2{ 
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+.h{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+}
+.h1{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+
+}
+.h2{
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+}
+.i{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: brown;
+    align-items: center;
+    height: 200px;
+    width: 200px;
+}
+.i1{
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+}

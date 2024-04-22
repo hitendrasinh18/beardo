@@ -1,0 +1,141 @@
+.navigationbar{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    align-items: center;
+    
+    
+    
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.list1 ul{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+li{
+    margin-left: 14px;
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+.row1{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+
+}
+.pic1{
+    height: 450px;
+    width: 420px;
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.heading1{
+    color: white;
+    margin-top: 10px;
+}
+.pic2{
+    height: 250px;
+    width: 240px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    line-height: 50px;
+    
+
+}
+.item1{
+    margin-top: 30px;
+    
+    
+}
+.item2{
+    margin-top: 80px;
+}
+.footer2{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    margin-top: 10px;
+}
+.item3{
+    margin-top: 30px;
+}
+.footer3{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    line-height: 50px;
+    margin-top: 10px;
+
+}
+.item4{
+    margin-top: 30px;
+}
+.item5{
+    margin-top: 80px;
+}
+.footer4{
+    color: white;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+
+}
+
+.m{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.s{
+    margin-top: 20px;
+}
+
+.inbt{
+    margin-top: 20px;
+}
+
+input{
+    background-color: white;
+    color: #000;
+}
+
+button{
+    background-color: white;
+    color: #000;
+}
+
+p{
+    margin-top: 10px;
+}
